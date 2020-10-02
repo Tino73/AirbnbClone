@@ -5,7 +5,7 @@ import './Home.css';
 function Home() {
     return (
         <div classname='home'>
-            <h1> home</h1>
+            
         </div>
     )
 }
